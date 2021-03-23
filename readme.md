@@ -1,6 +1,6 @@
 - 👋 Greetings traveler, I am Geoffrey aka @jefuricheri
 - 👀 I am a musician who loves pop culture.
-- 🌱 I am currently learning front-end code developement, singing, guitar and Japanese.
+- 🌱 I am currently learning front-end code development, singing, guitar and Japanese.
 - 💞️ Currently working on my developement foundations skills, I am not opened yet to projects but I for sure would like to exchange !
 - 📫 You can reach me at: jefuri.flock@gmail.com
 - 🍒 Also, trying to get in the BeWeb school based at Béziers, in France.

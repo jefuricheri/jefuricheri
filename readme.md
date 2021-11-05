@@ -3,7 +3,7 @@
 - 🌱 I am currently learning front-end code development, singing, guitar and Japanese.
 - 💞️ Currently working on my developement foundations skills, I am not opened yet to projects but I for sure would like to exchange !
 - 📫 You can reach me at: jefuri.flock@gmail.com
-- 🍒 Also, trying to get in the BeWeb school based at Béziers, in France.
+- 🍒 Also, currently in the BeWeb school based at Béziers, in France.
 
 <!---
 jefuricheri/jefuricheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
